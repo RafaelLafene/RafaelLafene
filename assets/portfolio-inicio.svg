@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Prévia da página inicial do portfólio de Rafael Lafene">
+  <rect width="1200" height="720" fill="#0b0d10"/>
+  <rect y="0" width="1200" height="72" fill="#10151a"/>
+  <text x="70" y="45" fill="#f2f6f7" font-family="Arial, sans-serif" font-size="25" font-weight="700">rafael.lafene</text>
+  <text x="730" y="45" fill="#a8b3ba" font-family="monospace" font-size="15">EXPERIÊNCIA   PROJETOS   FORMAÇÃO   GITHUB ↗</text>
+  <text x="70" y="170" fill="#99ff5a" font-family="monospace" font-size="16">BRASÍLIA, DF · DISPONÍVEL PARA CRESCER EM TECNOLOGIA</text>
+  <text x="70" y="310" fill="#f2f6f7" font-family="Georgia, serif" font-size="122">Rafael</text>
+  <text x="480" y="310" fill="#99ff5a" font-family="Georgia, serif" font-size="122" font-style="italic">Lafene.</text>
+  <text x="70" y="380" fill="#a8b3ba" font-family="Arial, sans-serif" font-size="24">Estudante de Análise e Desenvolvimento de Sistemas,</text>
+  <text x="70" y="416" fill="#a8b3ba" font-family="Arial, sans-serif" font-size="24">com projetos em Python, SQL e tecnologias web.</text>
+  <rect x="70" y="470" width="180" height="50" fill="#99ff5a"/>
+  <text x="95" y="502" fill="#0b0d10" font-family="monospace" font-size="15" font-weight="700">VER PROJETOS</text>
+  <rect x="270" y="470" width="155" height="50" fill="none" stroke="#99ff5a"/>
+  <text x="297" y="502" fill="#f2f6f7" font-family="monospace" font-size="15">LINKEDIN ↗</text>
+  <line x1="70" y1="600" x2="1130" y2="600" stroke="#29323a"/>
+  <text x="70" y="650" fill="#99ff5a" font-family="monospace" font-size="15">01 / CONTATO</text>
+  <text x="290" y="653" fill="#f2f6f7" font-family="Georgia, serif" font-size="40">Vamos conversar.</text>
+</svg>
