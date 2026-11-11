@@ -1,7 +1,6 @@
 # Olá, eu sou Rafael Lafene 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** no UniCEUB, com formação em Ciências Contábeis. Estou construindo minha trajetória em tecnologia com foco em desenvolvimento web, dados e automação de processos.
-
+Estudante de **Análise e Desenvolvimento de Sistemas** no UniCEUB, com formação em Ciências Contábeis. 
 - 💼 Atualmente, estagiário na **Engeconsult**, atuando com edição de documentos, automação de processos e análise de dados.
 - 🐍 Desenvolvendo projetos com **Python**, **SQL**, **HTML**, **CSS** e **JavaScript**.
 - 📍 Brasília, DF.
